@@ -1,0 +1,21 @@
+links
+https://www.phpformbuilder.pro/drag-n-drop-form-builder/index.html
+https://htmlcodeeditor.com/
+
+https://drive.google.com/drive/folders/1QyE5YS2E60Kn4gI6yuCU3zSBKnTs6COX?usp=sharing
+
+https://kntn.ly/7725202b
+
+https://drive.google.com/drive/u/2/folders/1XRggjemoMlWPxCgibiqzgWQyNHPw_tzq
+
+download eclipse
+https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/helios/R/eclipse-jee-helios-win32-x86_64.zip
+
+JRE
+https://javadl.oracle.com/webapps/download/AutoDL?BundleId=252627_99a6cb9582554a09bd4ac60f73f9b8e6
+
+WAMPP
+https://sourceforge.net/directory/http-servers/windows/
+
+Updates
+https://projects.eclipse.org/projects/technology.egit/releases/7.6.0
